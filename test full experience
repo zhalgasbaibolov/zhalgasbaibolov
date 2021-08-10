@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-10T11:03:08.779Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="ShDmnJe3WOQrFUHR5olE" version="14.9.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-10T11:05:28.806Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="y5J4CaiXrQ93271QUBCu" version="14.9.5" type="github">
   <diagram id="vnUHlZiGgBSX-80d5F6H" name="Page-1">
     <mxGraphModel dx="1483" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -100,12 +100,6 @@
         <mxCell id="vzdcE5qpxtNHTvSRAg5x-20" value="Please type your review" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="730" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vzdcE5qpxtNHTvSRAg5x-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vzdcE5qpxtNHTvSRAg5x-22" target="vzdcE5qpxtNHTvSRAg5x-18" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="vzdcE5qpxtNHTvSRAg5x-22" value="YES/NO &lt;br&gt;doesn&#39;t work" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="130" y="620" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="vzdcE5qpxtNHTvSRAg5x-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="vzdcE5qpxtNHTvSRAg5x-25" target="vzdcE5qpxtNHTvSRAg5x-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -147,9 +141,6 @@
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="vzdcE5qpxtNHTvSRAg5x-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="vzdcE5qpxtNHTvSRAg5x-39" target="vzdcE5qpxtNHTvSRAg5x-94" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vzdcE5qpxtNHTvSRAg5x-39" value="cart description&lt;br&gt;&lt;br&gt;&lt;br&gt;1. continue shopping&lt;br&gt;2. payment&lt;br&gt;3.delete item" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="425" width="200" height="110" as="geometry" />
@@ -283,9 +274,6 @@
         <mxCell id="vzdcE5qpxtNHTvSRAg5x-92" value="need to add to admin:&lt;br&gt;1. online status of client&lt;br&gt;2. notification counts&lt;br&gt;3. descending order by time&lt;br&gt;4. graphical improvements in chat area (different colors for msgs)&lt;br&gt;5. add send button in msg send area" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1390" y="255" width="270" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="vzdcE5qpxtNHTvSRAg5x-94" value="1/2/3&lt;br&gt;doesn&#39;t work" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="10" y="570" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="QaOFy_Pc5q-1tx5Jhkf4-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QaOFy_Pc5q-1tx5Jhkf4-1" target="QaOFy_Pc5q-1tx5Jhkf4-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -364,6 +352,18 @@
         </mxCell>
         <mxCell id="QaOFy_Pc5q-1tx5Jhkf4-30" value="then send cart description with&lt;br&gt;1. continue shopping&lt;br&gt;2. proceed to payment&lt;br&gt;3. delete item" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1620" y="583.25" width="180" height="86.5" as="geometry" />
+        </mxCell>
+        <mxCell id="QaOFy_Pc5q-1tx5Jhkf4-33" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="vzdcE5qpxtNHTvSRAg5x-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="920" y="760" as="sourcePoint" />
+            <mxPoint x="220" y="590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="990" y="760" />
+              <mxPoint x="990" y="700" />
+              <mxPoint x="220" y="700" />
+              <mxPoint x="220" y="640" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
