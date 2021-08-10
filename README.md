@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @zhalgasbaibolov
-- 👀 I’m interested in front-end
-- 🌱 I’m currently learning JS and Ruby
+- 👀 I’m fullstack JS developer
 
 <!---
 zhalgasbaibolov/zhalgasbaibolov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
