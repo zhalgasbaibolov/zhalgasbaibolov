@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zhalgasbaibolov
-- 👀 I’m fullstack JS developer
+- 👀 I’m backend JS/TS developer
 
 <!---
 zhalgasbaibolov/zhalgasbaibolov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
